@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MaticKerec/movie-database/static/css/main.2aa4dd5c.css",
+    "main.js": "/MaticKerec/movie-database/static/js/main.3b0d7c28.js",
+    "index.html": "/MaticKerec/movie-database/index.html",
+    "static/media/search.svg": "/MaticKerec/movie-database/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.2aa4dd5c.css.map": "/MaticKerec/movie-database/static/css/main.2aa4dd5c.css.map",
+    "main.3b0d7c28.js.map": "/MaticKerec/movie-database/static/js/main.3b0d7c28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aa4dd5c.css",
+    "static/js/main.3b0d7c28.js"
+  ]
+}
